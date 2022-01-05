@@ -7,3 +7,9 @@ Building a Dashboard with Metabase and Docker Compose. The dashboard summurizes 
 The data can be found here:
 
 https://github.com/pawlodkowski/northwind_data_clean
+
+Keywords
+- Docker
+- Postgres
+- SQL
+- Metabase
